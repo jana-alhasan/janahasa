@@ -36,5 +36,10 @@
   
 <!-- Contact me -->
 <h2 align="center">Let's Connect</h2>
-<p align="center">I'm always looking for new opportunities and collaborations to learn and grow as a developer. If you have any questions or just want to say hi, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jana-hasan/) or [Email](mailto:jannahasan@hotmail.com). I'd love to hear from you! 
-
+<p align="center">I'm always looking for new opportunities and collaborations to learn and grow as a developer. If you have any questions or just want to say hi, feel free to reach out to me on
+  <p align="center">
+  <a href="mailto:jannahasan@hotmail.com"><img src="https://img.shields.io/badge/Email-Me-red"/></a>
+  <a href="https://www.linkedin.com/in/jana-hasan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a>
+ <a href="https://www.instagram.com/Jana_alhasan_/"><img src="https://img.shields.io/badge/Instagram-Follow-orange"/></a>
+</p>
+</p>
