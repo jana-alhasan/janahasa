@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
 
-  <img src="" alt="Header image">
+  <img src="https://avatars.githubusercontent.com/u/99503558?s=400&u=de9868ad5c8ff43f86a74b6cd36db202f361c00c&v=4" alt="Header image">
 </p>
 <!-- Header -->
 <h1 align="center">Hi there, I'm Jana 👋</h1>
